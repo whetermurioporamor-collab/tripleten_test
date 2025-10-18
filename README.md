@@ -7,3 +7,4 @@ helldiver
 - txt -> archivo de texto
 - py -> python
 - csv -> archivo plano separado por comas.
+whatever man
